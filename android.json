@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
-  "version_code": 202,
-  "notes": "- A small update \u2014 the app looks and works the same for you. It's mainly here\n  to confirm updates install themselves smoothly once you're on 0.2.1 or later.\n\n---\nInstalled apps update themselves: open Unseen Media and accept the update prompt, or use Settings \u2192 Updates \u2192 Check now.\n\n\ud83e\udd16 Generated with [Claude Code](https://claude.com/claude-code)",
-  "url": "https://github.com/Unseen-Media/unseen-android-releases/releases/download/android-v0.2.2/UnseenMedia-android.apk",
-  "sha256": "fef22d943a353d5757bbe4df12c1ecd3c4ae0be0dac022cd3575bd713716e46b"
+  "version": "0.2.3",
+  "version_code": 203,
+  "notes": "- Nothing changes for you in this one. Behind the scenes the app now handles\n  switching between the public address and the home network, which only the\n  server admin ever sees \u2014 everyone else keeps signing in exactly as before.\n\n---\nInstalled apps update themselves: open Unseen Media and accept the update prompt, or use Settings \u2192 Updates \u2192 Check now.\n\n\ud83e\udd16 Generated with [Claude Code](https://claude.com/claude-code)",
+  "url": "https://github.com/Unseen-Media/unseen-android-releases/releases/download/android-v0.2.3/UnseenMedia-android.apk",
+  "sha256": "7ced3afa09c2dde5417d16fab452d3bdb51b9eb69644655494af2b2258018c44"
 }
