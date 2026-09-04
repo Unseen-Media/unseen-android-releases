@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
-  "version_code": 205,
-  "notes": "- **\"Jump back in\" now matches the desktop.** It shows the episode you're\n  part-way through *and* the next one to watch once you finish an episode \u2014 so\n  a series you're bingeing keeps showing up here \u2014 newest first. Your progress\n  is shared with the desktop app, so watch on one and pick up on the other.\n\n---\nInstalled apps update themselves: open Unseen Media and accept the update prompt, or use Settings \u2192 Updates \u2192 Check now.\n\n\ud83e\udd16 Generated with [Claude Code](https://claude.com/claude-code)",
-  "url": "https://github.com/Unseen-Media/unseen-android-releases/releases/download/android-v0.2.5/UnseenMedia-android.apk",
-  "sha256": "537722ce25f789047ebcabdd49b4737011e748311099c9bbcaa171bf6cfc73a4"
+  "version": "0.2.6",
+  "version_code": 206,
+  "notes": "- **Tap the video to play or pause.** A single tap now plays/pauses the video;\n  double-tap shows or hides the on-screen controls.\n\n---\nInstalled apps update themselves: open Unseen Media and accept the update prompt, or use Settings \u2192 Updates \u2192 Check now.\n\n\ud83e\udd16 Generated with [Claude Code](https://claude.com/claude-code)",
+  "url": "https://github.com/Unseen-Media/unseen-android-releases/releases/download/android-v0.2.6/UnseenMedia-android.apk",
+  "sha256": "253246454cb24a3740384c142344a694fcada9740083d282bf4efd924036609e"
 }
