@@ -1,7 +1,7 @@
 {
-  "version": "0.2.6",
-  "version_code": 206,
-  "notes": "- **Tap the video to play or pause.** A single tap now plays/pauses the video;\n  double-tap shows or hides the on-screen controls.\n\n---\nInstalled apps update themselves: open Unseen Media and accept the update prompt, or use Settings \u2192 Updates \u2192 Check now.\n\n\ud83e\udd16 Generated with [Claude Code](https://claude.com/claude-code)",
-  "url": "https://github.com/Unseen-Media/unseen-android-releases/releases/download/android-v0.2.6/UnseenMedia-android.apk",
-  "sha256": "253246454cb24a3740384c142344a694fcada9740083d282bf4efd924036609e"
+  "version": "0.2.7",
+  "version_code": 207,
+  "notes": "- **The player is properly full screen.** Opening a video now hides the status\n  and navigation bars so the picture gets the whole screen \u2014 swipe in from an\n  edge if you need them back. A full-screen button sits at the bottom right of\n  the controls, where the desktop app has its own, to switch back and forth.\n- **The screen stays awake while you watch.** The device used to dim and lock\n  mid-episode as if nothing were playing. It now stays on while a video plays,\n  and still sleeps normally if you leave it paused.\n\n---\nInstalled apps update themselves: open Unseen Media and accept the update prompt, or use Settings \u2192 Updates \u2192 Check now.\n\n\ud83e\udd16 Generated with [Claude Code](https://claude.com/claude-code)",
+  "url": "https://github.com/Unseen-Media/unseen-android-releases/releases/download/android-v0.2.7/UnseenMedia-android.apk",
+  "sha256": "4546cdf13b8e6fb53731b5fc99beeec1c2808685e95485ba1e89e1df8ea806db"
 }
